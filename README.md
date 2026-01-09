@@ -1,5 +1,5 @@
 📝 Task Tracker CLI
-Uma ferramenta de linha de comando para gerenciamento de tarefas, desenvolvida como parte dos desafios de lógica e arquitetura em Node.js. O projeto permite realizar o CRUD completo de tarefas com persistência em arquivos locais.
+Link do desafio: https://roadmap.sh/projects/task-tracker
 
 🎯 Sobre o Projeto
 Este projeto foi construído seguindo os princípios do SOLID para garantir um código limpo, testável e de fácil manutenção. A aplicação utiliza o sistema de arquivos do Node.js (fs) para persistir os dados em um arquivo JSON, simulando o comportamento de um banco de dados.
